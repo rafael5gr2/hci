@@ -31,3 +31,8 @@
 
 Το link για το button:
 https://github.com/rafael5gr2/site/blob/drafts/_remix/button.md
+
+## Παραδοτέο 3
+
+[![asciicast](https://asciinema.org/a/bDadu9fspSacZghd6Icethu3X.svg)](https://asciinema.org/a/bDadu9fspSacZghd6Icethu3X)
+

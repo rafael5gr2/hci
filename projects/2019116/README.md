@@ -34,5 +34,8 @@ https://github.com/rafael5gr2/site/blob/drafts/_remix/button.md
 
 # Παραδοτέο 3
 
+Στο τρίτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey).
+Η άσκηση που επέλεξα (set-up the main dependencies and demonstrate your base system) ζητούσε να αλλάξουμε το όνομα από το command prompt μας στον αριθμό μητρώου που έχουμε, έπειτα να δείξουμε τα dot files μας, το shell configuration file και τέλος με την χρήση του neofetch (https://github.com/dylanaraps/neofetch) να δείξουμε τα System information (hardware+software). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνεις record το command prompt του και να το κάνει share με κάποιο link η να το ενσωματώσει στο αρχείο md του με ένα image link. Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
+
 [![asciicast](https://asciinema.org/a/bDadu9fspSacZghd6Icethu3X.svg)](https://asciinema.org/a/bDadu9fspSacZghd6Icethu3X)
 

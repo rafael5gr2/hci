@@ -2,7 +2,10 @@
   
 ### Ονοματεπώνυμο: Ραφαήλ Φωτακίδης | ΑΜ: Π2019116
 ### Αποθετήριο του μαθήματος: https://github.com/rafael5gr2/hci
-### Αποθετήριο του βιβλίου: https://github.com/rafael5gr2/site
+### Αποθετήρια του βιβλίου:  
+### https://github.com/rafael5gr2/site  
+### https://github.com/rafael5gr2/_gallery  
+### https://github.com/rafael5gr2/images
 ### Προφίλ στο Codepen: https://codepen.io/p19fota
   
 # Παραδοτέα και Τελική αναφορά
@@ -21,7 +24,7 @@
 | 6 | Συμμετοχικό περιεχόμενο [click here](#παραδοτέο-6)|
 | 7 | Άσκηση προγραμματισμού [click here](#παραδοτέο-7)|
 | 8 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-8)|
-| 9 | Άσκηση προγραμματισμού |
+| 9 | Άσκηση προγραμματισμού [click here](#παραδοτέο-9)|
 | 10 | Άσκηση γραμμής εντολών |
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά |
@@ -94,7 +97,7 @@ https://rafael5gr2.netlify.app//timeline/videogames/
   
 https://github.com/rafael5gr2/site/blob/master/_remix/image-filter.md  
 https://codepen.io/sckarolos/pen/VLJWMQ/  
-https://codepen.io/sckarolos/pen/VLJWMQ/  
+https://codepen.io/p19fota/pen/mdEZYzy  
 https://rafael5gr2.netlify.app/remix/image-filter/
   
 ![Image](https://image.prntscr.com/image/1Ld4SvVCRbeNiXP1Ra9Cmg.png)  
@@ -165,3 +168,16 @@ done
 
 echo "Thank you for using my bash script!"
 ```
+  
+## Παραδοτέο 9
+  
+Στο ένατο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image-zoom/) ζητούσε να προσθέσουμε CSS Filters από την άσκηση προγραμματισμού image processing έτσι ώστε όταν κάνεις hover πάνω στην εικόνα να μεγεθύνετε και να αποκτά τα διάφορα filters. Η ιδιότητα της μεγέθυνσης υπήρχε ήδη μέσα στο πρόγραμμα. Τα filters τα οποία χρησιμοποίησα είναι το drop-shadow, το brightness και το blur. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού και την ιστοσελίδα MDN Web Docs (https://developer.mozilla.org/en-US/) από την οποία βρήκα τα διάφορα filters της CSS.  
+  
+Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.  
+  
+https://github.com/rafael5gr2/site/blob/master/_remix/image-zoom.md  
+https://codepen.io/sckarolos/pen/xwxrPb/  
+https://codepen.io/p19fota/pen/xxEGdLV  
+https://rafael5gr2.netlify.app/remix/image-zoom/
+  
+![Image](https://image.prntscr.com/image/farXpkabSge8AiXIPmxvUA.png)  

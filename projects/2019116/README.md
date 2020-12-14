@@ -2,9 +2,9 @@
   
 ### Ονοματεπώνυμο: Ραφαήλ Φωτακίδης | ΑΜ: Π2019116
 ### Αποθετήριο του μαθήματος: https://github.com/rafael5gr2/hci
-### Αποθετήρια του βιβλίου:  
-### https://github.com/rafael5gr2/site  
-### https://github.com/rafael5gr2/_gallery  
+### Αποθετήρια του βιβλίου:
+### https://github.com/rafael5gr2/site
+### https://github.com/rafael5gr2/_gallery
 ### https://github.com/rafael5gr2/images
 ### Προφίλ στο Codepen: https://codepen.io/p19fota
   
@@ -25,7 +25,7 @@
 | 7 | Άσκηση προγραμματισμού [click here](#παραδοτέο-7)|
 | 8 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-8)|
 | 9 | Άσκηση προγραμματισμού [click here](#παραδοτέο-9)|
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-10)|
 | 11 | Συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά |
   
@@ -35,49 +35,49 @@
   
 ## Παραδοτέο 2
   
-Στο δεύτερο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να προσθέσουμε μία λειτουργία της επιλογής μας όταν πατηθεί ένα κουμπί. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.  
+Στο δεύτερο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/button/) ζητούσε να προσθέσουμε μία λειτουργία της επιλογής μας όταν πατηθεί ένα κουμπί. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.
   
-Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.  
+Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
 https://github.com/rafael5gr2/site/blob/master/_remix/button.md  
 https://codepen.io/sckarolos/pen/VvYoLm/  
 https://codepen.io/p19fota/pen/ZEOOROY  
 https://rafael5gr2.netlify.app/remix/button/
   
-![Button](https://image.prntscr.com/image/nwX6lLUrTqWTS_2tu_SBRA.png)  
+![Button](https://image.prntscr.com/image/nwX6lLUrTqWTS_2tu_SBRA.png)
   
 ## Παραδοτέο 3
   
-Στο τρίτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (set-up the main dependencies and demonstrate your base system) ζητούσε να αλλάξουμε το όνομα από το command prompt μας στον αριθμό μητρώου που έχουμε, έπειτα να δείξουμε τα dot files μας, το shell configuration file και τέλος με την χρήση του neofetch (https://github.com/dylanaraps/neofetch) να δείξουμε τα System information (hardware+software). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
+Στο τρίτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (set-up the main dependencies and demonstrate your base system) ζητούσε να αλλάξουμε το όνομα από το command prompt μας στον αριθμό μητρώου που έχουμε, έπειτα να δείξουμε τα dot files μας, το shell configuration file και τέλος με την χρήση του neofetch (https://github.com/dylanaraps/neofetch) να δείξουμε τα System information (hardware+software). Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/).a Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
-Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.  
+Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
-[![asciicast](https://asciinema.org/a/Z4NhCNDMZooxVh4UmjSXgFH19.svg)](https://asciinema.org/a/Z4NhCNDMZooxVh4UmjSXgFH19)  
+[![asciicast](https://asciinema.org/a/Z4NhCNDMZooxVh4UmjSXgFH19.svg)](https://asciinema.org/a/Z4NhCNDMZooxVh4UmjSXgFH19)
   
 ## Παραδοτέο 4
   
-Στο τέταρτο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image/) ζητούσε να δημιουργήσουμε δίπλα στην υπάρχουσα εικόνα, μια ίδια του μισού μεγέθους που να εκτελεί την ίδια λειτουργία με αυτην. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.  
+Στο τέταρτο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image/) ζητούσε να δημιουργήσουμε δίπλα στην υπάρχουσα εικόνα, μια ίδια του μισού μεγέθους που να εκτελεί την ίδια λειτουργία με αυτην. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού.
   
-Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.  
+Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
 https://github.com/rafael5gr2/site/blob/master/_remix/image.md  
 https://codepen.io/sckarolos/pen/dYPxYp/  
 https://codepen.io/p19fota/pen/ZEOyZyG  
 https://rafael5gr2.netlify.app/remix/image/
   
-![Image](https://image.prntscr.com/image/DNsuc1J8Q5i8WItP05xciw.png)  
+![Image](https://image.prntscr.com/image/DNsuc1J8Q5i8WItP05xciw.png)
   
 ## Παραδοτέο 5
   
-Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (add a status bar to your shell/editor and configure a color-theme) ζητούσε να βάλουμε ένα status bar στο shell μας και στο editor μας και μετά να βάλουμε ένα color-theme της επιλογής μας. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
+Στο πέμπτο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (add a status bar to your shell/editor and configure a color-theme) ζητούσε να βάλουμε ένα status bar στο shell μας και στο editor μας και μετά να βάλουμε ένα color-theme της επιλογής μας. Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
-Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.  
+Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
-[![asciicast](https://asciinema.org/a/371607.svg)](https://asciinema.org/a/371607)  
+[![asciicast](https://asciinema.org/a/371607.svg)](https://asciinema.org/a/371607)
   
 ## Παραδοτέο 6
   
-Στο έκτο παραδοτέο μας ζητήθηκε να βρούμε δύο νέες εικόνες και να τις προσαρμόσουμε στις διαφάνειες και στα χρονολογία του βιβλίου. Το θέμα που επέλεξα είναι τα βίντεοπαιχνίδια, όπου και αποφάσισα να δείξω την εξέλιξή τους.  
+Στο έκτο παραδοτέο μας ζητήθηκε να βρούμε δύο νέες εικόνες και να τις προσαρμόσουμε στις διαφάνειες και στα χρονολογία του βιβλίου. Το θέμα που επέλεξα είναι τα βίντεοπαιχνίδια, όπου και αποφάσισα να δείξω την εξέλιξή τους.
   
 Στα παρακάτω link μπορείτε να δείτε τις αλλαγές που έκανα στα αποθετήρια του βιβλίου και τις αλλαγές που έγιναν στο Netlify.
   
@@ -91,24 +91,24 @@ https://rafael5gr2.netlify.app//timeline/videogames/
   
 ## Παραδοτέο 7
   
-Στο έβδομο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image-filter/) ζητούσε να χρησιμοποιήσουμε CSS filters έτσι ώστε όταν κάνουμε hover την εικόνα να αλλάζει. Τα filters τα οποία χρησιμοποίησα είναι το drop-shadow, το brightness και το blur. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού και την ιστοσελίδα MDN Web Docs (https://developer.mozilla.org/en-US/) από την οποία βρήκα τα διάφορα filters της CSS.  
+Στο έβδομο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image-filter/) ζητούσε να χρησιμοποιήσουμε CSS filters έτσι ώστε όταν κάνουμε hover την εικόνα να αλλάζει. Τα filters τα οποία χρησιμοποίησα είναι το drop-shadow, το brightness και το blur. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού και την ιστοσελίδα MDN Web Docs (https://developer.mozilla.org/en-US/) από την οποία βρήκα τα διάφορα filters της CSS.
   
-Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.  
+Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
 https://github.com/rafael5gr2/site/blob/master/_remix/image-filter.md  
 https://codepen.io/sckarolos/pen/VLJWMQ/  
 https://codepen.io/p19fota/pen/mdEZYzy  
 https://rafael5gr2.netlify.app/remix/image-filter/
   
-![Image](https://image.prntscr.com/image/1Ld4SvVCRbeNiXP1Ra9Cmg.png)  
+![Image](https://image.prntscr.com/image/1Ld4SvVCRbeNiXP1Ra9Cmg.png)
   
 ## Παραδοτέο 8
   
-Στο όγδοο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (download mp3) ζητούσε να κατεβάσουμε ένα τραγούδι και να το αναπαράγουμε μέσο terminal. Τα εργαλεία που χρησιμοποίησα είναι το youtube-dl (https://github.com/ytdl-org/youtube-dl) και το mpv (https://github.com/mpv-player/mpv) τα οποία και έτρεξα μέσο ενός bash script το οποίο αρχικά ζητάει ένα YouTube URL και ένα όνομα για το αρχείο, έπειτα κατεβάζει και αναπαράγει και το διαγραφεί αν το επιθυμεί ο χρήστης και τέλος τον ρωτάει αν θέλει να ξανά κάνει την διαδικασία από την αρχή για κάποιο άλλο τραγούδι. Ως shell χρησιμοποιώ το bash και ως editor το vim. Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema, με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.  
+Στο όγδοο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (download mp3) ζητούσε να κατεβάσουμε ένα τραγούδι και να το αναπαράγουμε μέσο terminal. Τα εργαλεία που χρησιμοποίησα είναι το youtube-dl (https://github.com/ytdl-org/youtube-dl) και το mpv (https://github.com/mpv-player/mpv) τα οποία και έτρεξα μέσο ενός bash script το οποίο αρχικά ζητάει ένα YouTube URL και ένα όνομα για το αρχείο, έπειτα κατεβάζει και αναπαράγει και το διαγραφεί αν το επιθυμεί ο χρήστης και τέλος τον ρωτάει αν θέλει να ξανά κάνει την διαδικασία από την αρχή για κάποιο άλλο τραγούδι. Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
   
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών και το bash script.
   
-[![asciicast](https://asciinema.org/a/375912.svg)](https://asciinema.org/a/375912)  
+[![asciicast](https://asciinema.org/a/375912.svg)](https://asciinema.org/a/375912)
   
 ```
 while :
@@ -171,13 +171,21 @@ echo "Thank you for using my bash script!"
   
 ## Παραδοτέο 9
   
-Στο ένατο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image-zoom/) ζητούσε να προσθέσουμε CSS Filters από την άσκηση προγραμματισμού image processing έτσι ώστε όταν κάνεις hover πάνω στην εικόνα να μεγεθύνετε και να αποκτά τα διάφορα filters. Η ιδιότητα της μεγέθυνσης υπήρχε ήδη μέσα στο πρόγραμμα. Τα filters τα οποία χρησιμοποίησα είναι το drop-shadow, το brightness και το blur. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού και την ιστοσελίδα MDN Web Docs (https://developer.mozilla.org/en-US/) από την οποία βρήκα τα διάφορα filters της CSS.  
+Στο ένατο παραδοτέο μας ζητήθηκε να τροποποιήσουμε τον κώδικα ενός προγράμματος από την λίστα των ασκήσεων προγραμματισμού (https://pibook.epidro.me/remix/). Η άσκηση που επέλεξα (https://pibook.epidro.me/remix/image-zoom/) ζητούσε να προσθέσουμε CSS Filters από την άσκηση προγραμματισμού image processing έτσι ώστε όταν κάνεις hover πάνω στην εικόνα να μεγεθύνετε και να αποκτά τα διάφορα filters. Η ιδιότητα της μεγέθυνσης υπήρχε ήδη μέσα στο πρόγραμμα. Τα filters τα οποία χρησιμοποίησα είναι το drop-shadow, το brightness και το blur. Για την υλοποίηση αυτής της άσκησης χρησιμοποίησα την ιστοσελίδα Codepen (https://codepen.io/) στην οποία μπορεί κάποιος να γράψει ή να τροποποιήσει κώδικα (HTML, CSS, JavaScript) και ταυτόχρονα να βλέπει τις αλλαγές που κάνεις στο Preview Window. Επίσης χρησιμοποίησα την ιστοσελίδα W3schools (https://www.w3schools.com/) από την οποία έμαθα τα βασικά των παραπάνω γλωσσών προγραμματισμού και την ιστοσελίδα MDN Web Docs (https://developer.mozilla.org/en-US/) από την οποία βρήκα τα διάφορα filters της CSS.
   
-Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.  
+Παρακάτω μπορείτε να βρείτε το link της αρχικής και της τροποποιημένης άσκησης και το link του βιβλίου.
   
 https://github.com/rafael5gr2/site/blob/master/_remix/image-zoom.md  
 https://codepen.io/sckarolos/pen/xwxrPb/  
 https://codepen.io/p19fota/pen/xxEGdLV  
 https://rafael5gr2.netlify.app/remix/image-zoom/
   
-![Image](https://image.prntscr.com/image/farXpkabSge8AiXIPmxvUA.png)  
+![Image](https://image.prntscr.com/image/farXpkabSge8AiXIPmxvUA.png)
+  
+## Παραδοτέο 10
+  
+Στο δέκατο παραδοτέο μας ζητήθηκε να υλοποιήσουμε μία άσκηση γραμμής εντολών από την λίστα των ασκήσεων γραμμής εντολών (https://github.com/epidrome/dokey). Η άσκηση που επέλεξα (text editor and plug-ins for code highlighting and autocompletion) ζητούσε να προσθέσουμε στον vim editor μας code highlighting και autocompletion. Για να επιτευχθεί αυτό έπρεπε να κάνουμε edit το .vimrc αρχείο μας. Για το code highlighting πρόσθεσα την εντολή (syntax on) και για το autocompletion χρησιμοποίησα το plugin YouCompleteMe  (https://github.com/ycm-core/YouCompleteMe). Ως shell χρησιμοποιώ το bash και ως editor το vim (https://www.vim.org/). Όλα τα παραπάνω έπρεπε να γίνουνε record με την χρήση του asciinema (https://asciinema.org/), με το οποίο μπορεί κάποιος να κάνει record το command prompt του και να το κάνει share με κάποιο link ή να το ενσωματώσει στο αρχείο md του με ένα image link.
+  
+Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
+  
+[![asciicast](https://asciinema.org/a/379158.svg)](https://asciinema.org/a/379158)

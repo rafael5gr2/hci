@@ -26,7 +26,7 @@
 | 8 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-8)|
 | 9 | Άσκηση προγραμματισμού [click here](#παραδοτέο-9)|
 | 10 | Άσκηση γραμμής εντολών [click here](#παραδοτέο-10)|
-| 11 | Συμμετοχικό περιεχόμενο |
+| 11 | Συμμετοχικό περιεχόμενο [click here](#παραδοτέο-11)|
 | 12 | Τελική αναφορά |
   
 ### Εισαγωγή
@@ -77,7 +77,7 @@ https://rafael5gr2.netlify.app/remix/image/
   
 ## Παραδοτέο 6
   
-Στο έκτο παραδοτέο μας ζητήθηκε να βρούμε δύο νέες εικόνες και να τις προσαρμόσουμε στις διαφάνειες και στα χρονολογία του βιβλίου. Το θέμα που επέλεξα είναι τα βίντεοπαιχνίδια, όπου και αποφάσισα να δείξω την εξέλιξή τους.
+Στο έκτο παραδοτέο μας ζητήθηκε να βρούμε δύο νέες εικόνες και να τις προσαρμόσουμε στις διαφάνειες και στα χρονολογία του βιβλίου. Τα θέματα που επέλεξα είναι τα βίντεοπαιχνίδια, όπου και αποφάσισα να δείξω την εξέλιξή τους και διάφορα εργαλεία δημιουργίας βιντεοπαιχνιδιών.
   
 Στα παρακάτω link μπορείτε να δείτε τις αλλαγές που έκανα στα αποθετήρια του βιβλίου και τις αλλαγές που έγιναν στο Netlify.
   
@@ -86,8 +86,13 @@ https://github.com/rafael5gr2/_gallery
 https://github.com/rafael5gr2/site/tree/master/_slides  
 https://github.com/rafael5gr2/site/tree/master/_timeline
   
+(Minecraft και Hytale)
 https://rafael5gr2.netlify.app//slides/videogames/  
 https://rafael5gr2.netlify.app//timeline/videogames/
+  
+Extra Υλικό (Unreal Engine και Unity):
+https://rafael5gr2.netlify.app//slides/tools/  
+https://rafael5gr2.netlify.app//timeline/programming/
   
 ## Παραδοτέο 7
   
@@ -189,3 +194,8 @@ https://rafael5gr2.netlify.app/remix/image-zoom/
 Παρακάτω μπορείτε να βρείτε το image link από την άσκηση γραμμής εντολών.
   
 [![asciicast](https://asciinema.org/a/379158.svg)](https://asciinema.org/a/379158)
+  
+## Παραδοτέο 11
+  
+Στο ενδέκατο παραδοτέο μας ζητήθηκε TODO.
+  
